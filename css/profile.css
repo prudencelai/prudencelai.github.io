@@ -1,0 +1,53 @@
+/*profile.css*/
+html {background-color: #Faebd7; height: 100%}
+
+body {color:#696969; font-family: 'Gloria Hallelujah', cursive; height: 100%;}
+
+strong {color:#4683B3;}
+
+img {
+	margin-bottom:20px;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 2px;
+}
+
+.cat {
+	max-width: 100%;
+	max-height: 100%;
+
+}
+
+.navBrand {max-height: 100%;}
+
+.navbar-fixed-top {
+	position: fixed;
+}
+
+.navbar {background:#FFB6C1}
+
+.description {
+	background-image: url("../img/clolourblock.jpg"); 
+	background-size: 500px 150px; background-repeat: no-repeat;}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.jumbotron {
+	background-image: url("../img/titlebg.jpg");
+	background-size: cover;
+	height: 100%;
+	color: #FFFFE0;
+}
+
+/*css for gallery*/

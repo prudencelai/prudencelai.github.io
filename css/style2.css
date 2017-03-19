@@ -1,0 +1,21 @@
+.cat {
+	max-width: 100%;
+}
+
+body {background-image: url("../img/flowerbg.jpg"); padding-top: 70px; }
+
+.navBrand {max-height: 100%;}
+
+.navbar-fixed-top {
+	position: fixed;
+}
+
+.interestinfo {
+	height:300px;
+	font-size:20;
+}
+
+.aboutmeinfo {
+	height: 100px;
+	font-size:20;
+}
